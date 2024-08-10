@@ -2,8 +2,6 @@
 """
 Created on Sat Oct 16 19:19:35 2021
 
-@author: Edward Cheung
-
 0.7 is the cutOff
 """
 
